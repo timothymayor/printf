@@ -1,6 +1,6 @@
 ## _printf()
 
-The printf project is a collaboration between Timothy Mayor and Janyong Molisho Molisho, students of Software Engineering at ALX. 
+The printf project is a collaboration between Timothy Mayor and Stephen Ihiene Oduh, students of Software Engineering at ALX. 
 
 This function named "_printf()" imitates the actual "printf()" command located in the stdio.h library of C programming Language. It contains some of the basic features and functions found in the manual 3 of "printf".
 
@@ -238,10 +238,10 @@ Function That Returns The Amount Of Indetifiers.
 
 
 ### Authors
-Timothy Mayor & Janyong Molisho Molisho
+Timothy Mayor & Stephen Ihiene Oduh
 
 ------------
 
 ### End
 
-(c) Timothy and Janyong | 2023 ALX software engineering programme.
+(c) Timothy and Stephen | 2023 ALX software engineering programme.
